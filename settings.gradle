@@ -8,4 +8,5 @@
  */
 
 rootProject.name = 'misis-java'
-include('1_pdfParser')
+include '1_pdfParser'
+include '2_iniParser'

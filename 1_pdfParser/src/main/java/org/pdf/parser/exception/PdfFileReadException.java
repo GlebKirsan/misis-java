@@ -1,4 +1,4 @@
-package org.example.parser.exception;
+package org.pdf.parser.exception;
 
 public class PdfFileReadException extends RuntimeException {
 

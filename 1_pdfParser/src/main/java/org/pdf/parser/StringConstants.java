@@ -1,4 +1,4 @@
-package org.example.parser;
+package org.pdf.parser;
 
 import lombok.experimental.UtilityClass;
 
